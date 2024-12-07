@@ -19,6 +19,7 @@ Develop a Java program to simulate basic operations in a library management syst
 Ensure your program passes all tests by running the included test suite.
 
 ## Submission
+Use `gradle test` to test before pushing
 Push your final changes to your GitHub repository and make sure your latest commit is before the deadline.
 
 ## Good luck - Joe!
