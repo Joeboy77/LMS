@@ -12,6 +12,7 @@ Develop a Java program to simulate basic operations in a library management syst
 - Use constructors for initializing objects.
 - Simulate operations in the `App` class.
 - LMS/app/src/test/java/org/example/ that will be your working file. There already exist a book class. Don't touch the test file.
+- The AppTest.java should serve as a guid to see the test case. Just observe do not change. 
 
 
 ## Testing
